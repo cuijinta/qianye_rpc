@@ -1,0 +1,3 @@
+roundRobin=com.qianye.qyrpc.loadbalancer.RoundRobinLoadBalancer
+random=com.qianye.qyrpc.loadbalancer.RandomLoadBalancer
+consistentHash=com.qianye.qyrpc.loadbalancer.ConsistentHashLoadBalancer

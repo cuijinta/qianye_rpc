@@ -1,0 +1,2 @@
+no=com.qianye.qyrpc.fault.retry.NoRetryStrategy
+fixedInterval=com.qianye.qyrpc.fault.retry.FixedIntervalRetryStrategy

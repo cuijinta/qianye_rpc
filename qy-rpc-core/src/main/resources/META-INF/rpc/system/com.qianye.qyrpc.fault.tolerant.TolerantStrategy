@@ -1,0 +1,4 @@
+failBack=com.qianye.qyrpc.fault.tolerant.FailBackTolerantStrategy
+failFast=com.qianye.qyrpc.fault.tolerant.FailFastTolerantStrategy
+failOver=com.qianye.qyrpc.fault.tolerant.FailOverTolerantStrategy
+failSafe=com.qianye.qyrpc.fault.tolerant.FailSafeTolerantStrategy
